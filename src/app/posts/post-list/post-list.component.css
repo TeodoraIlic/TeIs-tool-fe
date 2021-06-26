@@ -1,0 +1,24 @@
+/* :host znaci selektuj samog sebe, znaci odnosi se na celu  komponentu */
+
+:host{
+    position: block;
+    margin-top: 16px;
+}
+
+.info-text{
+    text-align: center;
+}
+
+.post-file {
+    width: 100%;
+}
+
+.post-file img {
+    width: 100%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+.mat-paginator {
+
+    margin-top: 5rem;
+}

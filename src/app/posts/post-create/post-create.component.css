@@ -1,0 +1,26 @@
+mat-form-field,
+textarea{
+    width: 100%;
+    margin: auto;
+}
+
+mat-spinner {
+    margin: auto;
+}
+
+button[mat-raised-button] {
+    height: auto;
+    width: auto;
+    margin-bottom: 20px;
+ }
+
+input.file-upload {
+    visibility: hidden;
+}
+.file-preview {
+    width: 100%;
+}
+.file-preview img {
+     width: 100%;
+     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+ }
